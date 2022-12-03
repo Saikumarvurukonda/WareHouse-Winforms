@@ -1,0 +1,14 @@
+Connect to database
+Add validations
+currency exchange
+Language (English/Spanish/Telugu/Hindi)
+Search bar should search for each character
+Get the time stamping for each operation
+
+
+More
+Create profiles for each company
+Revenue, profit, Invoices
+Rating
+Send updates using gRPC/any streaming process
+request multiple orders at a time
